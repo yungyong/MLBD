@@ -1,3 +1,3 @@
 docker build \
     -f Dockerfile \
-    -t ishugaepov/mlbd .
+    -t ishugaepov/mlbd_spark2 .
